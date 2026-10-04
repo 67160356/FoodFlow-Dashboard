@@ -1,7 +1,14 @@
 # FoodFlow — Thailand Business Dashboard
 
+> Business Dashboard สำหรับวิเคราะห์ธุรกิจอาหารและเครื่องดื่มในประเทศไทย
+
+## 🌐 Live Dashboard
+
+👉 **[เปิดใช้งาน FoodFlow Dashboard](https://foodflow-dashboard.streamlit.app/)**
+
 ## รายวิชา
-**Business Idea Creation**
+
+Business Idea Creation
 
 ## แนวคิดของบริษัท
 **FoodFlow** คือแพลตฟอร์ม Marketplace สำหรับสินค้าอาหารและเครื่องดื่มที่รวบรวมร้านค้าและผู้ขายหลายรายไว้ในระบบเดียว ช่วยให้ลูกค้าค้นหา เปรียบเทียบสินค้าและราคา ดูข้อมูลสินค้า รีวิว และตัดสินใจสั่งซื้อได้สะดวกขึ้น ขณะเดียวกันช่วยให้ร้านอาหารและผู้ประกอบการ SME เข้าถึงลูกค้าออนไลน์ได้มากขึ้น
